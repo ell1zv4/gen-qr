@@ -1,9 +1,9 @@
 # gen-qr
 
-Esta es una simple herramienta para incluir la data que quieras a un codigo qr. Los tipos de datas que puedes usar son
+This is a simple tool to include any data you want to a qr code. The types of data you can use are
 
-* Texto
+- Text
 
-* Url
+- Url
 
-Y muchos mas pero tambien se puede llegar a usar para hacking, pero para eso está mas horientada la herramienta *QRLJacking*
+And many more but it can also be used for hacking, but for that the QRLJacking tool is more oriented.
